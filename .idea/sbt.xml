@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="D:\sbt\bin\sbt-launch.jar" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.15" />
+      </SbtProjectSettings>
+    </option>
+    <option name="maximumHeapSize" value="4096" />
+    <option name="vmParameters" value="-Dplay.version=2.2.1 -Dsbt.ivy.home=D:/sbt/.ivy2 -Dsbt.repository.config=D:/sbt/conf/repo.properties" />
+  </component>
+</project>
